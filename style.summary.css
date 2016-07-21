@@ -1,0 +1,26 @@
+body {
+    background-image: url("article82.jpg");
+}
+
+h1 {
+
+    font-weight: bold;
+    font-family: "Arial";
+}
+
+li h2 {
+    text-indent: 100px;
+    text-align: center;
+    font-style: italic;
+    }
+table {
+    text-align: center;
+    margin: auto;
+}
+li {
+    text-align: center;
+}
+.rightimg{
+    float:right;
+    margin: 7px 7px 7px 0;
+}
