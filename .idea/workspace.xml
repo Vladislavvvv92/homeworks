@@ -2,37 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34b25933-fb5b-4aee-b64e-7d420491c06d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Home work 3/ind.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Home work 4/index 1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Home work 4/test.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lession 4/1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lession 4/contact 1.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lession 4/contact.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lession 4/forms.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lession 4/index 4.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lession 5/directory.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lession 5/file.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lession 5/galleery.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lession 5/include/functions.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lession 5/include/settings.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lession 5/text.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/2.10.1.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/2.10.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/2.11.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/2.12.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/2.13.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/2.14.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/2.15.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/2.16.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/2.2.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/2.3.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/2.4.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/2.5.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/2.9.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/3.1.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/script.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Academy0207.iws" />
@@ -421,7 +390,7 @@
       <workItem from="1471006411694" duration="272000" />
       <workItem from="1471006706573" duration="932000" />
       <workItem from="1471071878693" duration="9139000" />
-      <workItem from="1471082024890" duration="545000" />
+      <workItem from="1471082024890" duration="559000" />
     </task>
     <task id="LOCAL-00001" summary="Home Works">
       <created>1470340759248</created>
@@ -444,11 +413,18 @@
       <option name="project" value="LOCAL" />
       <updated>1471082384817</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Home Works">
+      <created>1471082580024</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1471082580024</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63851000" />
+    <option name="totallyTimeSpent" value="63865000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
