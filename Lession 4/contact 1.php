@@ -1,0 +1,41 @@
+<?php
+
+/* logic */
+/* adding message */
+$messages = array();
+$messages = unserialize(file_get_contents('data.txt'));
+if (isset($_POST['action']) && $_POST['action'] == 'add') {
+    $messages[] = array(
+        'username' => $_POST['username'],
+        'message' => $_POST['message'],
+
+    );
+}
+
+file_put_contents('data.txt', serialize($messages));
+
+/* */
+?>
+    <h1>Add your message:</h1>
+
+    <form action="" method="post">
+        <label for="username">Username:</label>
+        <input type="text" name="username" id="username">
+
+        <div style="clear:both"></div>
+
+        <label for="message">Message:</label>
+        <textarea name="message" id="message" cols="30" rows="10"></textarea>
+
+        <div style="clear:both"></div>
+
+        <input type="submit" value="Add message">
+        <input type="hidden" name="action" value="add">
+    </form>
+<?php
+foreach($messages as $message) {?>
+    <div>
+        <h5><?php echo $message['username']?></h5>
+        <p><?php echo $message['message']?></p>
+    </div>
+<?php }
